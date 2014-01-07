@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
+//derp
 int main (void) {
   srand(time(NULL)/2);
   int game[9][9];
