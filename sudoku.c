@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <time.h>
 //derp
+//hi my name is Tysen
 int main (void) {
   srand(time(NULL)/2);
   int game[9][9];
